@@ -1,0 +1,35 @@
+- name: "shiv"
+  dob: "01-01-01"
+  age: 21
+  addresses:
+  - doorNo: 1-23
+    street: "gandhi nagar"
+    city: hyd
+    type: current
+
+  - doorNo: 1-23
+    street: "gandhi nagar"
+    city: hyd
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
+  
+- name: "vamsee"
+  dob: "01-01-01"
+  age: 21
+  addresses:
+  - doorNo: 1-23
+    street: "gandhi nagar"
+    city: hyd
+    type: current
+
+  - doorNo: 1-23
+    street: "gandhi nagar"
+    city: hyd
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
