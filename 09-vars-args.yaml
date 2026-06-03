@@ -5,3 +5,7 @@
   - name: print course info
     ansible.builtin.debug:
       msg: "Course name is: {{ COURSE }}, Duration is {{ DURATION }}, Trainer: {{ TRAINER }}"
+
+
+#  ansible-playbook -i inventory.ini -e ansible_user=ec2-user -e ansible_password=DevOps321 -e "COURSE=ANSIBLE" -e "DURATION=10HRS" -e "TRAINER=SIVA_KUMAR"  09-vars-args.yaml
+      
