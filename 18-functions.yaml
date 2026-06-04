@@ -55,7 +55,7 @@
 
   - name: conert to lowercase
     ansible.builtin.debug:
-      msg: "{{ gmail | lower }"
+      msg: "{{ gmail | lower }}"
 
   
  # pip3.9 install netaddr for ip
