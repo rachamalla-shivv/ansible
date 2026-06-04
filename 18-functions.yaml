@@ -4,7 +4,7 @@
   vars:
     name: r.Shiv
     gmail: Rachamalla_shivv@GMAIL.com
-    ipaddress: "192.168.0.1"
+    ipaddress: "1920.68.0.1"
     technologies: devops, ansible, shell, linux # string
     tags: # dictionary{} == map
      appliction: payment
